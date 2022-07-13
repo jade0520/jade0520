@@ -1,7 +1,6 @@
 # Hi I'M JIYOUNG SEO 👋
-A graduate student in DSP lab of Inha univ.
-
-I’m currently working on deep learning for sequential data
+- A graduate student in DSP lab of Inha univ.
+- working on deep learning for sequential data
 
 
 😎 Skils 😎 
