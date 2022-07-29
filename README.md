@@ -1,4 +1,4 @@
-# HI I'M JIYOUNG SEO 👋
+# HI I'M JIYOUNG SEO or JADE 👋
 - A graduate student in DSP lab of Inha univ.
 - working on deep learning for sequential data
 
