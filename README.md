@@ -10,7 +10,7 @@
 - Deep learning
 - Automatic Speech Recognition
 - Speech Emotion Recognition
-- demand forecasts
+- Demand Forecasts
 
 
 ⚡ **PAPER** ⚡
